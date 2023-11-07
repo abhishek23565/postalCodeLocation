@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/postalCodeLocation/static/css/main.6fcbb840.css",
+    "main.js": "/postalCodeLocation/static/js/main.dcb3144a.js",
+    "static/js/787.63fcc69c.chunk.js": "/postalCodeLocation/static/js/787.63fcc69c.chunk.js",
+    "static/media/ManwithGlobe.png": "/postalCodeLocation/static/media/ManwithGlobe.ef2a6fb631966b7ee37a.png",
+    "index.html": "/postalCodeLocation/index.html",
+    "main.6fcbb840.css.map": "/postalCodeLocation/static/css/main.6fcbb840.css.map",
+    "main.dcb3144a.js.map": "/postalCodeLocation/static/js/main.dcb3144a.js.map",
+    "787.63fcc69c.chunk.js.map": "/postalCodeLocation/static/js/787.63fcc69c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fcbb840.css",
+    "static/js/main.dcb3144a.js"
+  ]
+}
