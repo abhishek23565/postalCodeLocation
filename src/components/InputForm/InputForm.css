@@ -1,0 +1,33 @@
+.my-container {
+  min-height: 100vh;
+  background-image: linear-gradient(#60a5e7, #cd467a);
+}
+
+.zip-icon {
+  height: 1.5rem;
+  width: 1.5rem;
+  box-sizing: border-box;
+}
+
+.text-error {
+  color: #962424;
+}
+
+/* Responsive Design CSS for inputForm Section */
+@media screen and (min-width: 281px) and (max-width: 767px) {
+  .my-input {
+    width: 225px !important;
+  }
+}
+
+@media screen and (min-width: 767px) and (max-width: 912px) {
+  .my-input {
+    width: 300px !important;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .my-input {
+    width: 100px !important;
+  }
+}
