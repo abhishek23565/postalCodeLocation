@@ -16,7 +16,7 @@
 /* Responsive Design CSS for inputForm Section */
 @media screen and (min-width: 281px) and (max-width: 767px) {
   .my-input {
-    width: 225px !important;
+    width: 180px !important;
   }
 }
 

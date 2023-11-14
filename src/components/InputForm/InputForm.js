@@ -6,7 +6,6 @@ import ZipCodeInfo from '../ZipInformation/ZipCodeInfo';
 const InputForm = () => {
   const zipCodeRef = useRef();
   const [zipInfo, setZipInfo] = useState({});
-  const [URL, setURL] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [isInputEmpty, setIsInputEmpty] = useState(false);
   const [isError, setIsError] = useState(null);
